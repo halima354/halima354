@@ -29,5 +29,6 @@ If you'd like to get in touch with me, feel free to reach out through the follow
 
 ---
 
-⭐ C
+⭐ Check out my repositories!  
+If you like what you see, drop a ⭐ — thank you for visiting my profile 💛
 
