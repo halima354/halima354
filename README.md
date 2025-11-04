@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**halima354/halima354** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Halima  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Backend Developer** specializing in **Node.js**, **Express.js**, and **GraphQL**.  
+I love building efficient APIs and constantly learning new technologies.  
+
+---
+
+## 🛠 Skills & Technologies  
+
+🤝 **Backend:** Node.js, Express.js, GraphQL, RESTful APIs, TypeScript  
+🌐 **Database:** MySQL, MongoDB  
+📖 **Deployment:** Render, AWS, EvenNode  
+👩‍🎓 **Version Control:** Git, GitHub  
+🧠 **Currently Learning:** NestJS  
+
+---
+
+## 📫 Contact Me  
+
+If you'd like to get in touch with me, feel free to reach out through the following channels:  
+📧 [Email](mailto:halimaramadan840@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/halima-ramadan-558009397/)  
+
+---
+
+⭐ Check out my repositories!  
+If you like what you see, drop a ⭐ — thank you for visiting my profile 💛  
+
+</div>
+
