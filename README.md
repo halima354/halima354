@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Halima  
 
+</div>
+
 ---
 
 I'm a passionate **Backend Developer** specializing in **Node.js**, **Express.js**, and **GraphQL**.  
@@ -27,8 +29,5 @@ If you'd like to get in touch with me, feel free to reach out through the follow
 
 ---
 
-⭐ Check out my repositories!  
-If you like what you see, drop a ⭐ — thank you for visiting my profile 💛  
-
-</div>
+⭐ C
 
